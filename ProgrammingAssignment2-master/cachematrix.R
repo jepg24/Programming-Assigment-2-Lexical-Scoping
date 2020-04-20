@@ -1,5 +1,5 @@
 ## The function 'makeCacheMatrix' create a list that caches its inverse.
-## It returns a list of four functions: set, get, getinv, getinv.
+## It returns a list of four functions: set, get, setinv, getinv.
 
 makeCacheMatrix <- function(x = matrix()) {     ## Function define to use a matrix.
     inv <- NULL                                 ## Clear the last inv value   
