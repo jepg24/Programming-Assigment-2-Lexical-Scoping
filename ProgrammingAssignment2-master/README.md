@@ -8,7 +8,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 Files
 
-1. `CodeBook.md` a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
+1. `codebook.Rmd` a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
 
 2. `run_analysis.R` performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
         Merges the training and the test sets to create one data set.
